@@ -8,7 +8,7 @@ O projeto é um excelente exercício para praticar:
 * **Organização de conteúdo** de forma clara e hierárquica para facilitar a navegação.
 
 ## 🚀 Acesse o Site
-
+https://aleksandraberto.github.io/WebsiteEncantoFloral-repositorio/
 
 ## 📂 Estrutura do projeto
 /EncantoFloralWebsite
